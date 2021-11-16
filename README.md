@@ -23,12 +23,12 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     - [Formation](#formation)
     - [Stage-Clearing](#stage-clearing)
     - [Hard Mode](#hard-mode)
+    - [Morale](#morale)
     - [Gear](#gear)
     - [Limit Breaks](#limit-breaks)
     - [Enhancement](#enhancement)
     - [Retrofit](#retrofit)
     - [Leveling](#leveling)
-    - [Early Map/Equipment Recommendations](#early-map-equipment-recommendations)
 5. [Beginner Farming Recommendations](#beginner-farming-recommendations)
 6. [HQ](#hq)
     - [Academy](#academy)
@@ -257,8 +257,8 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 Farming for beginners
     1. Pick your favorite starter ship (others can be obtained later).
     2. Power-level in 1-4 until your ships are about level 30.
-    3. Repeat for 2-4
-    4. Upgrade equipment to survive Chapter 3 (enhance blue gears to +3)
+    3. Repeat for 2-4.
+    4. Upgrade equipment to survive Chapter 3 (enhance blue gears to +3).
     5. Farm 3-4 (for two SR ships Akagi & Kaga). 
     6. Build second fleet (when first fleet is low on morale).
     7. Continue clearing higher stages.
