@@ -4,7 +4,7 @@
 
 Welcome, Commander!
 
-Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.Oh, and there's some pretty good art too.
+Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets. Oh, and there's some pretty good art too.
 
 ## Table of Contents
 
@@ -120,7 +120,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 - It is not necessary to use Quick Finishers unless you want to use 10-pulls during events.
 - The Exchange menu allows you to trade in **Medals of Honor** for ships and crafting resources.
     * It is recommended to only retire duplicate ships (i.e. you have already obtained the needed number for max limit breaking).
-    * Keep at least 80 **Medals of Honor** in order to exchange for the SR on rotation.
+    * Keep at least 80 **Medals of Honor** in order to exchange for the SR on rotation (every 15 days). 
     * Always buy the gold Bulin if it appears in the shop.
     * Buy retrofit blueprints if needed. Many players end up with a shortage of destroyer (DD) blueprints since there are many good destroyers that can be retrofitted.
 
@@ -187,6 +187,13 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     * X-3 drops battleship.
     * X-4 drops carrier.
 
+### Morale
+
+- Ships have mood values (0 to 150).
+- Engaging in combat reduces morale by 2 and being sunk by an enemy reduces morale by 10.
+- Switch ships out to let them rest (don't overwork your girls).
+- Ships staying in the Dorm regenerate morale quicker (depending on 1st or 2nd floors).
+
 ### Gear
 
 - How do you get gear? 
@@ -215,6 +222,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 - Retrofitting allows you to 'rebirth' your ship to a modernized version with an upgrade in rarity and greatly improved stats.
 - Only a limited number of ships can be retrofitted.
 - Retrofit blueprints are required and can be obtained from [Hard Mode](#hard-mode) maps.
+- Recommended ships to retrofit: Laffey/Z23, Ayanami, Portland, Shouhou.
 
 ### Leveling
 
@@ -231,20 +239,94 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
 ## Beginner Farming Recommendations
 
+- Watch this [video](https://www.youtube.com/watch?v=_I7DW6G-jLU) for a good overview.
+```
+General roadmap
+    1. Pick your favorite starter ship (others can be obtained later).
+    2. Power-level in 1-4 until your ships are about level 30.
+    3. Repeat for 2-4
+    4. Upgrade equipment to survive Chapter 3 (enhance blue gears to +3)
+    5. Farm 3-4 (for two SR ships Akagi & Kaga). 
+    6. Build second fleet (when first fleet is low on morale).
+    7. Continue clearing higher stages.
+```
+- Farming fleets are built to use as little oil as possible.
+    * Use fewer ships. The minimum is one backline and one frontline ship (1:1). Also, over-level your ships as level difference matters (around 20 levels).
+    * Use ships with no/few limit breaks since LB's increase oil costs.
+    * Upgrade equipment and level up skills.
+    * Complete the stage several times with stronger fleets to lower its Danger Level.
+    * Use ships of lower rarity for cheaper oil cost.
+    * Use cheaper ship types. For the frontline: Destroyers (DD) > Light Cruisers (CL) > Heavy Cruisers (CA, CB). For the backline: Monitors (BM) > Battlecruisers (BC) > Battleships (BB) and Light Carriers (CVL) > standard Carriers (CV)
+- Decent ships for farming:
+    * Vanguard: Phoenix, Leander, Cassin, Downes, Fletcher.
+    * Main: Erebus, Terror, Nelson, Rodney, Tirpitz, Duke of York, Yorktown.
+    * Healers: Shouhou, Unicorn.
+
 ## HQ
 
 ### Academy
 
+- Upgrade your oil/coins storage.
+- Train ships in Tactical Class (not recommended to buy extra slots with gems).
+- Access Cat Lodge, Munitions Shop, and collect Medallions.
+
 ### Dorm
 
+- Living quarters for your ships.
+- Ships placed here gain passive EXP, increase affection, obtain Decor Tokens, and recover lost morale.
+- Fill the food bar to activates the passive EXP gain.
+- Extra dorm slots can be purchased using gems:
+    1. Free
+    2. Free
+    3. 300 gems
+    4. 500 gems
+    5. 800 gems
+    6. 1200 gems
+
 ### Cat Lodge
+
+- Living quaters for your Meowfficers.
+- Meowfficers provide buffs to fleets at no additional oil cost.
+- They can be trained/leveled over time or consumer other Meowfficers for EXP.
 
 ## Research
 
 ### Fleet Technology
 
+- Mechanic that gives stat bonuses for ship collection, max limit breaks, and leveling ships to level 120.
+- Tech points per ship are based on the following:
+    * 2/9ths of the available points come from Collection, 4/9ths from Max Limit Break, and 3/9ths from Level 120.
+    * Ships with higher rarity are worth more points.
+- Fleet technology is an important pre-requisite for main PR/DR ships in the [Shipyard](#shipyard).
+
 ### Research Academy
+
+- Completing Research Projects rewards you with important resources such as ship blueprints and equipment designs.
+- You are allowed to refresh the Project list once per day.
+- **Be mindful of your resource consumption when selecting Projects.**
 
 ### Shipyard
 
+- Here you can develop powerful ships of Priority (PR) and Decisive (DR) rarities.
+- You need to complete a series of pre-requisites and then several lengthy time-gated quests for each ship to permanently unlock them in your dock.
+- A list of PR/DR ships can be found [here](https://azurlane.koumakan.jp/wiki/Research#Shipyard). For beginners, you will most likely only be able to unlock PR1 ships for now.
+- The later PR series ships might take a lot longer because of a mechanic called [Fleet Technology](#fleet-technology) since it requires having many ships of a certain faction, many MLB (max limit-broken) ships, and many L120 ships.
+- In addition, you will need to have enough of their respective blueprints to level up their Dev. Levels (which is akin to enhancing attributes for regular ships).
+
+``` 
+Ship development for beginners:
+    1. Go to shipyard, pick a PR1 ship.
+    2. Go to research academy, set your research PR1 focus for your chosen ship.
+    3. Complete research projects for blueprints (you will earn catch-up blueprints as well).
+    4. Complete your PR1 ship's pre-requisites to unlock their developement missions
+    5. Complete your PR1 ship's 8 development missions (time-gated & lengthy).
+    6. Unlock your PR1 ship.
+    7. Use your respective blueprints to raise your PR1 ship's Dev. Level (enhancing).
+    8. Choose another ship.
+    9. Repeat.
+```
 ## PVP
+
+- PVP is completely **optional** in Azur Lane.
+- Participating in PVP exercises rewards you with Merit which can be used in the Merit shop.
+- Try to complete the daily PVP mission for easy rewards.
