@@ -71,7 +71,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
 ### General Interface
 
-1. #### Shops
+##### 1. Shop
 
     - Shops are where you can purchase skins, gems, and other resources.
     - Always try to pick up discounted cubes and T3 skill books from the General Shop. Gold boxes should only be bought with an excess of coins.
