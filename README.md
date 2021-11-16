@@ -1,8 +1,8 @@
-# Welcome to Azur Lane
+## Welcome to Azur Lane
 
 Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.
 
-## Table of Contents
+### Table of Contents
 
 1. [Important Information](https://github.com/ricenoods/azur-lane-guide#important-information)
 2. [FAQs](https://github.com/ricenoods/azur-lane-guide#faqs)
@@ -32,12 +32,12 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     - [Shipyard](https://github.com/ricenoods/azur-lane-guide#shipyard)
 7. [PVP](https://github.com/ricenoods/azur-lane-guide#pvp)
 
-## Important Information
+### Important Information
 
 - EN players are highly encouraged to bind their game account using a Twitter, Facebook, or Yostar account in the Settings menu. Use at least one option or multiple to be safe (in the event of a lost or damaged device). 
 - EN Global servers do NOT have cross-play functionality. Pick your server wisely.
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 
 1. Should I reroll my account?
 
@@ -69,16 +69,16 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     - Daily reset is at midnight PDT.
     - weekly reset is Sunday at midnight PDT.
 
-## General Interface
+### General Interface
 
-### Shop
+#### Shop
 
 - Shops are where you can purchase skins, gems, and other resources.
 - Always try to pick up discounted cubes and T3 skill books from the General Shop. Gold boxes should only be bought with an excess of coins.
 - The guild shop sells important items such as retrofit blueprints and can be a good supplier of crafting parts.
 - Tip: Tap on Akashi twice a day for some bonus rewards.
 
-### Dock
+#### Dock
 
 - This is where all your ship-girls are found.
 - You can equip/level/retrofit your ships here.
