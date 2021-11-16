@@ -4,7 +4,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
 ### Table of Contents
 
-1. [Important Information](https://github.com/ricenoods/azur-lane-guide#important-information)
+1. [Important Information](#important-information)
 2. [FAQs](https://github.com/ricenoods/azur-lane-guide#faqs)
 3. [General Interface](https://github.com/ricenoods/azur-lane-guide#general-interface)
     - [Shop](https://github.com/ricenoods/azur-lane-guide#shop)
