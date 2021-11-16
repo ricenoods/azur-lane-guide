@@ -1,6 +1,8 @@
 ![banner](/images/azurlane_banner.png)
 
-# Welcome to Azur Lane
+# Azur Lane Beginner Guide
+
+Welcome, Commander!
 
 Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.Oh, and there's some pretty good art too.
 
