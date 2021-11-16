@@ -89,7 +89,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 - Shops are where you can purchase skins, gems, and other resources.
 - Always try to pick up discounted cubes and T3 skill books from the General Shop. Gold boxes should only be bought with an excess of coins.
 - The guild shop sells important items such as retrofit blueprints and can be a good supplier of crafting parts.
-- **Tip**: Tap on Akashi twice a day for some bonus rewards.
+- **Tip: Tap on Akashi twice a day for some bonus rewards and to unlock her time-gated missions.**
 
 ### Dock
 
@@ -115,6 +115,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 ### Building
 
 - The build menu is split into Event, Light, Heavy, and Special Tabs.
+- The Event tab implements the pools of Heavy, and less-commonly Special and Light.
 - The Event tab will not be available if there is no ongoing event.
 - Each ship has a specific build time which can be viewed at the bottom of this [page](https://azurlane.koumakan.jp/wiki/Building).
 - It is not necessary to use Quick Finishers unless you want to use 10-pulls during events.
@@ -162,9 +163,12 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 - Each fleet begins with 5 Ammo and will consume 1 Ammo each battle. 
     * If you run out of Ammo, your fleet will deal 50% less damage. 
     * Maps may have nodes which can replenish fleet Ammo.
-- Enemies will appear on the map with different strength indicators.
-    * Standard mobs will need to be cleared in order to spawn the boss.
-    * Defeating the boss (flagship fleet) is required to clear the map.
+- Enemy Types:
+    * Light Fleet: Usually made up of enemy Destroyers (DD) and Light Cruisers (CL). 
+    * Main Fleet: Similar to Light Fleets, but also has Heavy Cruisers (CA) and Battleships (BB).
+    * Carrier Fleet: Fleets with aircraft carriers (CVL, CV).
+    * Siren Fleet: Only available on event stages.
+    * Boss Fleet: Known as a flagship fleet. Defeating it is required for clearing the map.
 - 100% Clear 
     * In order to 100% clear a map, you need to defeat the boss a certain number of times (varies per map).
     * **Clearing Mode** is unlocked at 100% clear (auto-movement for fleets).
@@ -190,6 +194,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 ### Morale
 
 - Ships have mood values (0 to 150).
+- Ships placed in the Dorm is the only way to regen up to 150 morale, otherwise it caps at 119.
 - Engaging in combat reduces morale by 2 and being sunk by an enemy reduces morale by 10.
 - Switch ships out to let them rest (don't overwork your girls).
 - Ships staying in the Dorm regenerate morale quicker (depending on 1st or 2nd floors).
@@ -249,8 +254,8 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     * Use ships of lower rarity for cheaper oil cost.
     * Use cheaper ship types. For the frontline: Destroyers (DD) > Light Cruisers (CL) > Heavy Cruisers (CA, CB). For the backline: Monitors (BM) > Battlecruisers (BC) > Battleships (BB) and Light Carriers (CVL) > standard Carriers (CV)
 - Decent ships for farming:
-    * Vanguard: Phoenix, Leander, Cassin, Downes, Fletcher.
-    * Main: Erebus, Terror, Nelson, Rodney, Tirpitz, Duke of York, Yorktown.
+    * Vanguard: Phoenix, Cassin, Downes, Fletcher.
+    * Main: Erebus, Terror, Nelson, Rodney, Duke of York, Yorktown.
     * Healers: Shouhou, Unicorn.
 
 ```
@@ -313,7 +318,8 @@ Farming for beginners
 - You need to complete a series of pre-requisites and then several lengthy time-gated quests for each ship to permanently unlock them in your dock.
 - A list of PR/DR ships can be found [here](https://azurlane.koumakan.jp/wiki/Research#Shipyard). For beginners, you will most likely only be able to unlock PR1 ships for now.
 - The later PR series ships might take a lot longer because of a mechanic called [Fleet Technology](#fleet-technology) since it requires having many ships of a certain faction, many MLB (max limit-broken) ships, and many L120 ships.
-- In addition, you will need to have enough of their respective blueprints to level up their Dev. Levels (which is akin to enhancing attributes for regular ships).
+- In addition, you will need to have enough of their respective blueprints to level up their Dev. Levels (which is akin to enhancing attributes for regular ships). 
+- PR1 series ships offer discounted blueprints each day (10 bp for 3K coins).
 
 ``` 
 Ship development for beginners:
@@ -330,5 +336,5 @@ Ship development for beginners:
 ## PVP
 
 - PVP is completely **optional** in Azur Lane.
-- Participating in PVP exercises rewards you with Merit which can be used in the Merit shop.
+- Participating in PVP exercises rewards you with Merit which can be used in the Merit shop (One of the only sources of gold Bulins).
 - Try to complete the daily PVP mission for easy rewards.
