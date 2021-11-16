@@ -242,7 +242,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 - Watch this [video](https://www.youtube.com/watch?v=_I7DW6G-jLU) for a good overview.
 
 ```
-General roadmap
+Farming for beginners
     1. Pick your favorite starter ship (others can be obtained later).
     2. Power-level in 1-4 until your ships are about level 30.
     3. Repeat for 2-4
@@ -251,6 +251,7 @@ General roadmap
     6. Build second fleet (when first fleet is low on morale).
     7. Continue clearing higher stages.
 ```
+
 - Farming fleets are built to use as little oil as possible.
     * Use fewer ships. The minimum is one backline and one frontline ship (1:1). Also, over-level your ships as level difference matters (around 20 levels).
     * Use ships with no/few limit breaks since LB's increase oil costs.
