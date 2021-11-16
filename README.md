@@ -1,6 +1,36 @@
 ## Welcome to Azur Lane
 
-Azur Lane is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.
+Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.
+
+### Table of Contents
+
+1. Important Information
+2. FAQs
+3. General Interface
+    - Shop
+    - Dock
+    - Depot
+    - Lab
+    - Missions
+    - Building/Construction
+    - Guild
+4. Mechanics
+    - Formation
+    - Gear
+    - Limit Breaks
+    - Enhancement
+    - Leveling
+    - Hard Mode
+    - Early Map/Equipment Recommendations
+5. HQ
+    - Academy
+    - Dorm
+    - Cat Lodge
+6. Research
+    - Fleet Technology
+    - Research Academy
+    - Shipyard
+7. PVP
 
 ### Important Information
 
@@ -9,51 +39,77 @@ Azur Lane is a free-to-play 2D mobile shoot-em-up gacha game that is set in an a
 
 ### Frequently Asked Questions
 
-1. Should I reroll
+1. Should I reroll my account?
 
-No. 
+    - No. 
+    - Names cannot be reused.
+    - AL's gacha is very f2p friendly. Cubes/resources are generously given through daily gameplay.
+    - You'll be swiping on skins anyways.
 
+2. Should I summon now or save cubes?
 
+    - Generally, you should save cubes for limited events and only use the daily summon.
+    - New players should spam constructions for the first several days to expand their starter fleet.
 
+3. Is this ship good?
 
+    - Don't play for meta. Play for waifu.
+    - Use this [community tier list](https://slaimuda.github.io/ectl/#/home) as a reference.
 
+4. What should I use gems on?
 
+    - Extra dorm slots
+    - Dock space
+    - 2nd floor dorm upgrade
+    - Skins/Rings
+    - Extra classroom slot
 
+5. When is the daily/weekly reset?
 
+    - Daily reset is at midnight PDT.
+    - weekly reset is Sunday at midnight PDT.
 
+### General Interface
 
-You can use the [editor on GitHub](https://github.com/ricenoods/azur-lane-guide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. Shops
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    - Shops are where you can purchase skins, gems, and other resources.
+    - Always try to pick up discounted cubes and T3 skill books from the General Shop. Gold boxes should only be bought with an excess of coins.
+    - The guild shop sells important items such as retrofit blueprints and can be a good supplier of crafting parts.
+    - Tip: Tap on Akashi twice a day for some bonus rewards.
 
-### Markdown
+2. Dock
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    - This is where all your ship-girls are found.
+    - You can equip/level/retrofit your ships here.
+    - Note: Dock space will eventually be a limiting factor (need gems to expand dock).
 
-```markdown
-Syntax highlighted code block
+3. Depot
 
-# Header 1
-## Header 2
-### Header 3
+    - Here you will craft, upgrade, and manage your item inventory.
+    - Blueprints for crafting gear can be found through farming or research.
 
-- Bulleted
-- List
+4. Lab
 
-1. Numbered
-2. List
+    - See the Research section.
 
-**Bold** and _Italic_ and `Code` text
+5. Missions
 
-[Link](url) and ![Image](src)
-```
+    - Here you will find your daily/weekly/event missions.
+    - Missions will reward you with coins, oils, bulins, and other resources.
+    - Try to do at least the dailies.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+6. Building/Construction
 
-### Jekyll Themes
+    - The build menu is split into Event, Light, Heavy, and Special Tabs.
+    - The Event tab will not be available if there is no ongoing event.
+    - Each ship has a specific build time which can be viewed at the bottom of this [page](https://azurlane.koumakan.jp/wiki/Building).
+    - The Exchange menu allows you to trade in 'Medals of Honor' for ships and crafting resources.
+    - It is recommended to only retire duplicate ships (i.e. you have already obtained the needed number for max limit breaking).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricenoods/azur-lane-guide/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+7. Guild
+    - The public guild is available by default to all new players.
+    - For fellow Fobbits, we have a guild on the Amagi server (info in discord).
+    - Here you can earn fleet currency to spend at the guild shop.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Mechanics
