@@ -240,6 +240,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 ## Beginner Farming Recommendations
 
 - Watch this [video](https://www.youtube.com/watch?v=_I7DW6G-jLU) for a good overview.
+
 ```
 General roadmap
     1. Pick your favorite starter ship (others can be obtained later).
@@ -317,12 +318,12 @@ General roadmap
 Ship development for beginners:
     1. Go to shipyard, pick a PR1 ship.
     2. Go to research academy, set your research PR1 focus for your chosen ship.
-    3. Complete research projects for blueprints (you will earn catch-up blueprints as well).
-    4. Complete your PR1 ship's pre-requisites to unlock their developement missions
+    3. Complete research projects for blueprints.
+    4. Complete your PR1 ship's pre-requisites to unlock development missions.
     5. Complete your PR1 ship's 8 development missions (time-gated & lengthy).
     6. Unlock your PR1 ship.
-    7. Use your respective blueprints to raise your PR1 ship's Dev. Level (enhancing).
-    8. Choose another ship.
+    7. Use your respective blueprints to raise their Dev. Levels (enhancing).
+    8. Choose a new PR/DR ship.
     9. Repeat.
 ```
 ## PVP
