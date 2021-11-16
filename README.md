@@ -25,15 +25,16 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     - [Retrofit](#retrofit)
     - [Leveling](#leveling)
     - [Early Map/Equipment Recommendations](#early-map-equipment-recommendations)
-5. [HQ](#hq)
+5. [Beginner Farming Recommendations](#beginner-farming-recommendations)
+6. [HQ](#hq)
     - [Academy](#academy)
     - [Dorm](#dorm)
     - [Cat Lodge](#cat-lodge)
-6. [Research](#research)
+7. [Research](#research)
     - [Fleet Technology](#fleet-technology)
     - [Research Academy](#research-academy)
     - [Shipyard](#shipyard)
-7. [PVP](#pvp)
+8. [PVP](#pvp)
 
 ## Important Information
 
@@ -213,7 +214,18 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
 ### Leveling
 
-### Early Map/Equipment Recommendations
+- Basic leveling mechanics:
+    * You will receive reduced exp for fighting very low-level ships.
+    * Your leveling efficiency highly depends on oil. Smaller ships use less oil. Usually the order (greatest cost to lowest) is as follows: Battleships > Battlecruisers > Carriers > Light Carriers/Heavy Cruisers > Light Cruisers > Destroyers.
+    * Limit breaking a ship will increase its oil cost.
+- EXP bonuses (bonuses stack multiplicatively):
+    * Base XP is the amount given for A rank. Achieving a S rank gives 1.2x EXP.
+    * Ships that are 'Very Happy' (120 or more Morale) earn 1.2x EXP. Ships that are 'Sad' earn 0.5x EXP.
+    * The Flagship (middle backline) earns 1.5x EXP.
+    * The ships that earns MVP earns 2x EXP.
+    * Certain ships give EXP bonus buffs to certain hull classes (e.g. Amazon gives 6-18% to destroyers).
+
+## Beginner Farming Recommendations
 
 ## HQ
 
