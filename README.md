@@ -1,43 +1,43 @@
-## Welcome to Azur Lane
+# Welcome to Azur Lane
 
 Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.
 
-### Table of Contents
+## Table of Contents
 
 1. [Important Information](#important-information)
-2. [FAQs](https://github.com/ricenoods/azur-lane-guide#faqs)
-3. [General Interface](https://github.com/ricenoods/azur-lane-guide#general-interface)
-    - [Shop](https://github.com/ricenoods/azur-lane-guide#shop)
-    - [Dock](https://github.com/ricenoods/azur-lane-guide#dock)
-    - [Depot](https://github.com/ricenoods/azur-lane-guide#dock)
-    - [Lab](https://github.com/ricenoods/azur-lane-guide#lab)
-    - [Missions](https://github.com/ricenoods/azur-lane-guide#missions)
-    - [Building](https://github.com/ricenoods/azur-lane-guide#building)
-    - [Guild](https://github.com/ricenoods/azur-lane-guide#guild)
-4. [Mechanics](https://github.com/ricenoods/azur-lane-guide#mechanics)
-    - [Formation](https://github.com/ricenoods/azur-lane-guide#formation)
-    - [Gear](https://github.com/ricenoods/azur-lane-guide#gear)
-    - [Limit Breaks](https://github.com/ricenoods/azur-lane-guide#limit-breaks)
-    - [Enhancement](https://github.com/ricenoods/azur-lane-guide#enhancement)
-    - [Leveling](https://github.com/ricenoods/azur-lane-guide#leveling)
-    - [Hard Mode](https://github.com/ricenoods/azur-lane-guide#hard-mode)
-    - [Early Map/Equipment Recommendations](https://github.com/ricenoods/azur-lane-guide#early-map-equipment-recommendations)
-5. [HQ](https://github.com/ricenoods/azur-lane-guide#hq)
-    - [Academy](https://github.com/ricenoods/azur-lane-guide#academy)
-    - [Dorm](https://github.com/ricenoods/azur-lane-guide#dorm)
-    - [Cat Lodge](https://github.com/ricenoods/azur-lane-guide#cat-lodge)
-6. [Research](https://github.com/ricenoods/azur-lane-guide#research)
-    - [Fleet Technology](https://github.com/ricenoods/azur-lane-guide#fleet-technology)
-    - [Research Academy](https://github.com/ricenoods/azur-lane-guide#research-academy)
-    - [Shipyard](https://github.com/ricenoods/azur-lane-guide#shipyard)
-7. [PVP](https://github.com/ricenoods/azur-lane-guide#pvp)
+2. [FAQs](#faqs)
+3. [General Interface](#general-interface)
+    - [Shop](#shop)
+    - [Dock](#dock)
+    - [Depot](#dock)
+    - [Lab](#lab)
+    - [Missions](#missions)
+    - [Building](#building)
+    - [Guild](#guild)
+4. [Mechanics](#mechanics)
+    - [Formation](#formation)
+    - [Gear](#gear)
+    - [Limit Breaks](#limit-breaks)
+    - [Enhancement](#enhancement)
+    - [Leveling](#leveling)
+    - [Hard Mode](#hard-mode)
+    - [Early Map/Equipment Recommendations](#early-map-equipment-recommendations)
+5. [HQ](#hq)
+    - [Academy](#academy)
+    - [Dorm](#dorm)
+    - [Cat Lodge](#cat-lodge)
+6. [Research](#research)
+    - [Fleet Technology](#fleet-technology)
+    - [Research Academy](#research-academy)
+    - [Shipyard](#shipyard)
+7. [PVP](#pvp)
 
-### Important Information
+## Important Information
 
 - EN players are highly encouraged to bind their game account using a Twitter, Facebook, or Yostar account in the Settings menu. Use at least one option or multiple to be safe (in the event of a lost or damaged device). 
 - EN Global servers do NOT have cross-play functionality. Pick your server wisely.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 1. Should I reroll my account?
 
@@ -69,16 +69,16 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     - Daily reset is at midnight PDT.
     - weekly reset is Sunday at midnight PDT.
 
-### General Interface
+## General Interface
 
-#### Shop
+### Shop
 
 - Shops are where you can purchase skins, gems, and other resources.
 - Always try to pick up discounted cubes and T3 skill books from the General Shop. Gold boxes should only be bought with an excess of coins.
 - The guild shop sells important items such as retrofit blueprints and can be a good supplier of crafting parts.
 - Tip: Tap on Akashi twice a day for some bonus rewards.
 
-#### Dock
+### Dock
 
 - This is where all your ship-girls are found.
 - You can equip/level/retrofit your ships here.
