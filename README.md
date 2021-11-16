@@ -1,4 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Azur Lane
+
+Azur Lane is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.
+
+### Important Information
+
+- EN players are highly encouraged to bind their game account using a Twitter, Facebook, or Yostar account in the Settings menu. Use at least one option or multiple to be safe (in the event of a lost or damaged device). 
+- EN Global servers do NOT have cross-play functionality. Pick your server wisely.
+
+### Frequently Asked Questions
+
+1. Should I reroll
+
+No. 
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ricenoods/azur-lane-guide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
