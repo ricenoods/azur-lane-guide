@@ -1,3 +1,5 @@
+![banner](/images/azurlane_banner.png)
+
 # Welcome to Azur Lane
 
 Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in an alternate timeline of World War II. Players command anthromorphized moe warships and engage in naval battles against enemy fleets.Oh, and there's some pretty good art too.
@@ -216,7 +218,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
 - Basic leveling mechanics:
     * You will receive reduced exp for fighting very low-level ships.
-    * Your leveling efficiency highly depends on oil. Smaller ships use less oil. Usually the order (greatest cost to lowest) is as follows: Battleships > Battlecruisers > Carriers > Light Carriers/Heavy Cruisers > Light Cruisers > Destroyers.
+    * Your leveling efficiency highly depends on oil. Smaller ships use less oil. Usually the cost (greatest to lowest) is as follows: Battleships > Battlecruisers > Carriers > Light Carriers/Heavy Cruisers > Light Cruisers > Destroyers.
     * Limit breaking a ship will increase its oil cost.
 - EXP bonuses (bonuses stack multiplicatively):
     * Base XP is the amount given for A rank. Achieving a S rank gives 1.2x EXP.
