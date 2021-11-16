@@ -4,33 +4,33 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
 ### Table of Contents
 
-1. Important Information
-2. FAQs
-3. General Interface
-    - Shop
-    - Dock
-    - Depot
-    - Lab
-    - Missions
-    - Building/Construction
-    - Guild
-4. Mechanics
-    - Formation
-    - Gear
-    - Limit Breaks
-    - Enhancement
-    - Leveling
-    - Hard Mode
-    - Early Map/Equipment Recommendations
-5. HQ
-    - Academy
-    - Dorm
-    - Cat Lodge
-6. Research
-    - Fleet Technology
-    - Research Academy
-    - Shipyard
-7. PVP
+1. [Important Information](https://github.com/ricenoods/azur-lane-guide#important-information)
+2. [FAQs](https://github.com/ricenoods/azur-lane-guide#faqs)
+3. [General Interface](https://github.com/ricenoods/azur-lane-guide#general-interface)
+    - [Shop](https://github.com/ricenoods/azur-lane-guide#shop)
+    - [Dock](https://github.com/ricenoods/azur-lane-guide#dock)
+    - [Depot](https://github.com/ricenoods/azur-lane-guide#dock)
+    - [Lab](https://github.com/ricenoods/azur-lane-guide#lab)
+    - [Missions](https://github.com/ricenoods/azur-lane-guide#missions)
+    - [Building](https://github.com/ricenoods/azur-lane-guide#building)
+    - [Guild](https://github.com/ricenoods/azur-lane-guide#guild)
+4. [Mechanics](https://github.com/ricenoods/azur-lane-guide#mechanics)
+    - [Formation](https://github.com/ricenoods/azur-lane-guide#formation)
+    - [Gear](https://github.com/ricenoods/azur-lane-guide#gear)
+    - [Limit Breaks](https://github.com/ricenoods/azur-lane-guide#limit-breaks)
+    - [Enhancement](https://github.com/ricenoods/azur-lane-guide#enhancement)
+    - [Leveling](https://github.com/ricenoods/azur-lane-guide#leveling)
+    - [Hard Mode](https://github.com/ricenoods/azur-lane-guide#hard-mode)
+    - [Early Map/Equipment Recommendations](https://github.com/ricenoods/azur-lane-guide#early-map-equipment-recommendations)
+5. [HQ](https://github.com/ricenoods/azur-lane-guide#hq)
+    - [Academy](https://github.com/ricenoods/azur-lane-guide#academy)
+    - [Dorm](https://github.com/ricenoods/azur-lane-guide#dorm)
+    - [Cat Lodge](https://github.com/ricenoods/azur-lane-guide#cat-lodge)
+6. [Research](https://github.com/ricenoods/azur-lane-guide#research)
+    - [Fleet Technology](https://github.com/ricenoods/azur-lane-guide#fleet-technology)
+    - [Research Academy](https://github.com/ricenoods/azur-lane-guide#research-academy)
+    - [Shipyard](https://github.com/ricenoods/azur-lane-guide#shipyard)
+7. [PVP](https://github.com/ricenoods/azur-lane-guide#pvp)
 
 ### Important Information
 
@@ -43,7 +43,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
 
     - No. 
     - Names cannot be reused.
-    - AL's gacha is very f2p friendly. Cubes/resources are generously given through daily gameplay.
+    - Azur Lane's gacha is very f2p friendly. Cubes/resources are generously given through daily gameplay.
     - You'll be swiping on skins anyways.
 
 2. Should I summon now or save cubes?
@@ -99,7 +99,7 @@ Azur Lane (AL) is a free-to-play 2D mobile shoot-em-up gacha game that is set in
     - Missions will reward you with coins, oils, bulins, and other resources.
     - Try to do at least the dailies.
 
-6. Building/Construction
+6. Building
 
     - The build menu is split into Event, Light, Heavy, and Special Tabs.
     - The Event tab will not be available if there is no ongoing event.
