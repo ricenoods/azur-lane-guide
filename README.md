@@ -320,11 +320,12 @@ Farming for beginners
 - The later PR series ships might take a lot longer because of a mechanic called [Fleet Technology](#fleet-technology) since it requires having many ships of a certain faction, many MLB (max limit-broken) ships, and many L120 ships.
 - In addition, you will need to have enough of their respective blueprints to level up their Dev. Levels (which is akin to enhancing attributes for regular ships). 
 - PR1 series ships offer discounted blueprints each day (10 bp for 3K coins).
+- NOTE: PR1/PR2 ships have catchup mechanics so it is highly recommended to set your Research Focus on PR3/PR4 ships to begin early blueprint stockpiling.
 
 ``` 
 Ship development for beginners:
     1. Go to shipyard, pick a PR1 ship.
-    2. Go to research academy, set your research PR1 focus for your chosen ship.
+    2. Go to research academy, set your research PR1 catchup (NOT "Research Focus") for your chosen ship.
     3. Complete research projects for blueprints.
     4. Complete your PR1 ship's pre-requisites to unlock development missions.
     5. Complete your PR1 ship's 8 development missions (time-gated & lengthy).
