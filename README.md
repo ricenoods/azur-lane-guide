@@ -325,7 +325,8 @@ Farming for beginners
 ``` 
 Ship development for beginners:
     1. Go to shipyard, pick a PR1 ship.
-    2. Go to research academy, set your research PR1 catchup (NOT "Research Focus") for your chosen ship.
+    2. Go to research academy, set your research PR1 catchup 
+       (NOT "Research Focus") for your chosen ship.
     3. Complete research projects for blueprints.
     4. Complete your PR1 ship's pre-requisites to unlock development missions.
     5. Complete your PR1 ship's 8 development missions (time-gated & lengthy).
